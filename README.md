@@ -8,4 +8,7 @@ I love creating short, useful and fun programming videos on my [Instagram](https
 
 Here are some projects I've created and have had the opportunity to work on with brilliant people.
 
-* [supermiya.uz](https://supermiya.uz/) — a small online courses platform written in Next.js with over 1 400 registered users. The project has a simple admin panel is integrated with Payme and Monday CRM.
+| Project name                                            | Description                                                                          |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [CryptoPrivateBot](https://github.com/CryptoPrivateBot) | A Telegram [contest](https://t.me/CryptoBotRU/87) bot where I've taken 3rd place.    |
+| [supermiya.uz](https://supermiya.uz/)                   | A small online courses platform written in Next.js with over 1 400 registered users. |

@@ -1,8 +1,6 @@
 # 👨‍💻 Ramziddin Makhmudov
 
-Hi there! My name is Ramziddin and I'm a full stack web developer. I enjoy working with JavaScript (mostly TypeScript), React.js (mostly Next.js), Node.js, Prisma ORM.
-
-I love creating short, useful and fun programming videos on my [Instagram](https://instagram.com/ramzcoder) and [TikTok](https://tiktok.com/@ramzcoder).
+Hi there! My name is Ramziddin and I'm a full stack web developer from Uzbekistan. I enjoy working with TypeScript, Next.js, Node.js and Prisma ORM. I love creating short programming videos on my [Instagram](https://instagram.com/ramzcoder) and [TikTok](https://tiktok.com/@ramzcoder).
 
 ## Projects
 
@@ -11,4 +9,9 @@ Here are some projects I've created and have had the opportunity to work on with
 | Project name                                            | Description                                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [CryptoPrivateBot](https://github.com/CryptoPrivateBot) | A Telegram [contest](https://t.me/CryptoBotRU/87) bot where I've taken 3rd place.    |
-| [supermiya.uz](https://supermiya.uz/)                   | A small online courses platform written in Next.js with over 1 400 registered users. |
+| [supermiya.uz](https://supermiya.uz/)                   | A small online courses platform written in Next.js with over 2 000 registered users. |
+
+## Contacts
+
+* [Telegram](https://t.me/RamzCoder/)
+* [LinkedIn](https://linkedin.com/in/ramziddin-makhmudov-151924158/)
